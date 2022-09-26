@@ -1,0 +1,21 @@
+{
+  "name": "push-state-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.0.3",
+    "jest-environment-jsdom": "^29.0.3"
+  },
+  "devDependencies": {
+    "jest-location-mock": "^1.0.9"
+  }
+}
